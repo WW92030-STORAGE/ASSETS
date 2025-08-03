@@ -6,4 +6,4 @@ If you find that I erroneously uploaded assets or other IP that belongs to YOU t
 
 ---
 
-![Example!](examples/beanchair.png?raw=true)
+![Example!](beanchair.png?raw=true)
